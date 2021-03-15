@@ -1,6 +1,6 @@
 hola mundo
 algo
 ruido de mate
-generar un conflicto
+ooooo
 que pasa si hago git push?
 hago un cambio
