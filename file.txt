@@ -3,3 +3,4 @@ algo
 ruido de mate
 generar un conflicto
 que pasa si hago git push?
+hago un cambio
