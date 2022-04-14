@@ -1,7 +1,1 @@
-hola mundo
-algo
-ruido de mate
-generar un conflictoooooooooooooo
-ooooo
-que pasa si hago git push?
-hago un cambio
+cambio1 en master
